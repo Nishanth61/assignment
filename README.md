@@ -1,2 +1,2 @@
 # assignment
-a
+install python and dijangon
